@@ -1,0 +1,75 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FleInitialInspection.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PROGRAM_NAME" Type="System.String" Scope="User">
+      <Value Profile="(Default)">INITIAL INSPECTION PROGRAM</Value>
+    </Setting>
+    <Setting Name="PROGRAM_VERSION" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ver.1.0.0</Value>
+    </Setting>
+    <Setting Name="SOFTWARE_NUMBER" Type="System.String" Scope="User">
+      <Value Profile="(Default)">FL-XXXX</Value>
+    </Setting>
+    <Setting Name="SYSTEM_DIO_RELAY_COM_NAME" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM3</Value>
+    </Setting>
+    <Setting Name="MACHINE_RRY" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DIO002</Value>
+    </Setting>
+    <Setting Name="SAFETY_SHUT_DOWN_OFFSET" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">-0.02</Value>
+    </Setting>
+    <Setting Name="MACHINE_RRY_SD_IN_CHANNEL" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="MACHINE_RRY_CLS_ALARM_CHANNEL" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">6</Value>
+    </Setting>
+    <Setting Name="MACHINE_RRY_DIGITAL_CHANNEL" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="SYSTEM_KIKUSUI_ADDRESS" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="SYSTEM_KIKUSUI_MAX_CURRENT" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="SYSTEM_KIKUSUI_MAX_VOLTAGE" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="SYSTEM_KIKUSUI_USB_NAME" Type="System.String" Scope="User">
+      <Value Profile="(Default)">USB0::0x0B3E::0x1014::XJ003169::INSTR</Value>
+    </Setting>
+    <Setting Name="SYSTEM_KIKUSUI_WAITTIME" Type="System.Int64" Scope="User">
+      <Value Profile="(Default)">200</Value>
+    </Setting>
+    <Setting Name="SYSTEM_OPHIR_POWER_SERIAL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">865085</Value>
+    </Setting>
+    <Setting Name="MACHINE_ADI12_8" Type="System.String" Scope="User">
+      <Value Profile="(Default)">AIO000</Value>
+    </Setting>
+    <Setting Name="MACHINE_DI_16" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DIO000</Value>
+    </Setting>
+    <Setting Name="SAFETY_OUTPUT_CHECK_TIME" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">5000</Value>
+    </Setting>
+    <Setting Name="SAFETY_OUTPUT_MIN_POWER" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="SAFETY_PD_OUTPUT_MIN_VOLTAGE" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="SAFETY_SHUT_DOWN_THRESHOLD_SAFETY" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">90</Value>
+    </Setting>
+    <Setting Name="SPEC_OS_DIFF_MAX" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">1.5</Value>
+    </Setting>
+    <Setting Name="SPEC_OS_DIFF_MIN" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">-1.5</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
